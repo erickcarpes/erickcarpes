@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Erick Carpes!
 
-  I'm from Brazil 🇧🇷, currently based in the Brasília Time Zone ⏰. 
-I'm a Software Engineering student at PUCRS, passionate about fullstack development, TypeScript, React, and clean architecture. 
+I'm from Brazil 🇧🇷, currently based in the Brasília Time Zone ⏰. 
+I'm a Software Engineering student at PUCRS 🎓, passionate about fullstack development, TypeScript, React, and clean architecture. 
 When I'm not coding or studying, you'll probably find me running 🏃, gaming 👨‍💻, sailing ⛵, or enjoying time with my loved ones 💙.
 
 <div  align="center">
@@ -35,3 +35,10 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
 </div>
+
+##
+
+### 🌍 Languages:
+
+
+
