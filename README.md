@@ -6,10 +6,10 @@ When I'm not coding or studying, you'll probably find me running ğŸƒ, gaming ğŸ
 
 <div  align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=erickcarpes&theme=algolia&show_icons=true&hide=stars&card_width=400" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=erickcarpes&theme=algolia&show_icons=true&hide=stars&card_width=430" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=erickcarpes&layout=compact&langs_count=6&theme=algolia&card_width=300" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=erickcarpes&layout=compact&langs_count=6&theme=algolia&card_width=320" />
   </a>
 </div>
 
