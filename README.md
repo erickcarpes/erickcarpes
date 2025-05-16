@@ -1,14 +1,17 @@
 ## Hi there 👋 my name is Erick Carpes!
 
-I'm from Brazil 🇧🇷, currently based in the Brasília Time Zone ⏰. I'm a Software Engineering student at PUCRS, passionate about fullstack development, TypeScript, React and clean architecture.  
-When I'm not coding or studying, I'm probably either running 🏃, gaming 👨‍💻, sailing ⛵ or spending some good time with my loved ones 💙.
+  I'm from Brazil 🇧🇷, currently based in the Brasília Time Zone ⏰. 
+I'm a Software Engineering student at PUCRS, passionate about fullstack development, TypeScript, React, and clean architecture. 
+When I'm not coding or studying, you'll probably find me running 🏃, gaming 👨‍💻, sailing ⛵, or enjoying time with my loved ones 💙.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=erickcarpes&theme=algolia&show_icons=true&hide=stars" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=erickcarpes&layout=compact&langs_count=6&theme=algolia&card_width=320" />
-</a>
+<div  align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=erickcarpes&theme=algolia&show_icons=true&hide=stars&card_width=400" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=erickcarpes&layout=compact&langs_count=6&theme=algolia&card_width=300" />
+  </a>
+</div>
 
 ##
 
