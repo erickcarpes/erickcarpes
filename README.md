@@ -39,6 +39,6 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
 ##
 
 ### 🌍 Languages:
-
-
-
+<img src="./assets/brazil-flag.png" alt="Brazil Flag">
+<img src="./assets/usa-flag.png" alt="USA Flag">
+<img src="./assets/spain-flag.png" alt="Spain Flag">
