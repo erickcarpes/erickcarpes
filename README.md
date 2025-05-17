@@ -15,7 +15,7 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
 
 ##
 
-### 🛠 Main Skills:
+### 💻 Tech Stacks:
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -39,6 +39,11 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
 ##
 
 ### 🌍 Languages:
-<img src="./assets/brazil-flag.png" alt="Brazil Flag">
-<img src="./assets/usa-flag.png" alt="USA Flag">
-<img src="./assets/spain-flag.png" alt="Spain Flag">
+
+| ![Brazil Flag](./assets/brazil-flag.png) | ![USA Flag](./assets/usa-flag.png) | ![Spain Flag](./assets/spain-flag.png) |
+|:----------------------------------------:|:----------------------------------:|:--------------------------------------:|
+| Native                                   | Advanced                           | Beginner                               |
+
+
+
+
