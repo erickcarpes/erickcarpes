@@ -38,7 +38,7 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
 
 ##
 
-### 🌍 Languages:
+### 🌍 Languages Proficiency:
 
 | ![Brazil Flag](./assets/brazil-flag.png) | ![USA Flag](./assets/usa-flag.png) | ![Spain Flag](./assets/spain-flag.png) |
 |:----------------------------------------:|:----------------------------------:|:--------------------------------------:|
