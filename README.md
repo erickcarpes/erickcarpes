@@ -38,7 +38,7 @@ When I'm not coding or studying, you'll probably find me running ğŸƒ, gaming ğŸ
 <div align="center">
   <img src="https://cdn.simpleicons.org/express/ffffff" height="35" alt="Express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="35" alt="React Router logo"  />
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="35" alt="React Router logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="35" alt="React Query logo"  />
   <img width="12" />
