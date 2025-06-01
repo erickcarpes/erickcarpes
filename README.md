@@ -53,9 +53,12 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="35" alt="Postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" height="35" alt="Prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="35" alt="Express logo"  />
+  <img width="12" />
 </div>
-
-##
 
 ### 🌍 Languages Proficiency:
 
