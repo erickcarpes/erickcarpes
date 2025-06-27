@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Erick Carpes!
 
 I'm from Brazil 🇧🇷, currently based in the Brasília Time Zone ⏰. 
-I'm a Software Engineering student at PUCRS 🎓, passionate about fullstack development, TypeScript, React, and clean architecture. 
+I'm a Software Engineering student at PUCRS 🎓 and a Full Stack Developer at BeasyBox 🤯. I'm passionate about fullstack development, TypeScript, React, Nest.js, and clean architecture. 
 When I'm not coding or studying, you'll probably find me running 🏃, gaming 👨‍💻, sailing ⛵, or enjoying time with my loved ones 💙.
 
 <div  align="center">
@@ -24,11 +24,11 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="Html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="Css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="Nest.js Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwindcss logo"  />
 </div>
