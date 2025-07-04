@@ -36,27 +36,27 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
 ## 🛠️ Tools & Features I Use:
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/express/ffffff" height="35" alt="Express logo"  />
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" alt="Express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="35" alt="React Router logo"  />
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="40" alt="React Router logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="35" alt="React Query logo"  />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" alt="React Query logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" height="35" alt="Shadcnui logo"  />
+  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" height="40" alt="Shadcnui logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="Docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="35" alt="Maven logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" alt="Maven logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="35" alt="vite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="35" alt="Postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/ffffff" height="35" alt="Prisma logo"  />
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" height="40" alt="Prisma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb" height="35" alt="Express logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="Express logo"  />
   <img width="12" />
 </div>
 
