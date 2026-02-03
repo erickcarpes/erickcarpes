@@ -4,7 +4,7 @@ I'm from Brazil 🇧🇷, currently based in the Brasília Time Zone ⏰.
 I'm a Software Engineering student at PUCRS 🎓 and a Full Stack Developer at BeasyBox 🤯. I'm passionate about fullstack development, TypeScript, React, Nest.js, and clean architecture. 
 When I'm not coding or studying, you'll probably find me running 🏃, gaming 👨‍💻, sailing ⛵, or enjoying time with my loved ones 💙.
 
-## 💻 I code with:
+### 💻 I code with:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="Typescript logo" /> 
@@ -24,7 +24,9 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwindcss logo"  />
 </div>
 
-## 🛠️ Tools & Features I Use:
+---
+
+### 🛠️ Tools & Features I Use:
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/express/ffffff" width="40" alt="Express logo"  />
@@ -51,11 +53,15 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
   <img width="12" />
 </div>
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcarpes&radius=16&theme=react&area=true&order=5&custom_title=My%20Latest%20Contributions" height="300" alt="activity-graph graph"  />
 </div>
+
+---
 
 ### 🌍 Languages Proficiency:
 
