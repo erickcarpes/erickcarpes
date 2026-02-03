@@ -5,7 +5,7 @@ I'm a Software Engineering student at PUCRS 🎓 and a Full Stack Developer at B
 When I'm not coding or studying, you'll probably find me running 🏃, gaming 👨‍💻, sailing ⛵, or enjoying time with my loved ones 💙.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirschzao&radius=16&theme=react&area=true&order=5&custom_title=My%20Latest%20Contributions" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcarpes&radius=16&theme=react&area=true&order=5&custom_title=My%20Latest%20Contributions" height="300" alt="activity-graph graph"  />
 </div>
 
 ## 💻 I code with:
