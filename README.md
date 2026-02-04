@@ -59,9 +59,10 @@ When I'm not coding or studying, you'll probably find me running ğŸƒ, gaming ğŸ
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcarpes&radius=16&theme=react&area=true&order=5&custom_title=My%20Latest%20Contributions" height="300" alt="activity-graph graph"  />
+
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=erickcarpes)](https://github.com/LordDashMe/github-contribution-stats/)
 </div>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=erickcarpes)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 
