@@ -26,6 +26,8 @@ When I'm not coding or studying, you'll probably find me running 🏃, gaming �
 
 ---
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=erickcarpes)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ### 🛠️ Tools & Features I Use:
 
 <div align="center">
